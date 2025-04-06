@@ -1,0 +1,4 @@
+#!/bin/bash
+mv /home/edu/Documentos/light/a /home/edu/Documentos/light/2 && mv /home/edu/Documentos/light/3 /home/edu/Documentos/light/a
+backlight-brightness -s 60
+yad --center --no-buttons --window-icon='/usr/share/icons/papirus-antix/48x48/status/task-attempt.png' --title='' --undecorated --close-on-unfocus --timeout=1 --text='<big><big><big>⬛⬛⬛⬜⬜</big></big></big>'

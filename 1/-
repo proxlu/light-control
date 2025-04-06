@@ -1,0 +1,2 @@
+#!/bin/bash
+yad --center --no-buttons --window-icon='/usr/share/icons/papirus-antix/48x48/status/task-attempt.png' --title='' --undecorated --close-on-unfocus --timeout=1 --text='<big><big><big>⬛⬜⬜⬜⬜</big></big></big>'
